@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/tictactoeconnect-58667-0345db80/tic_tac_toe_frontend"
+}
